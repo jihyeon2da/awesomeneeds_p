@@ -88,8 +88,6 @@ img {
 .main .title p { font-size: 20px; }
 
 .main .inner .item {
-    /* width: 702px; */
-    /* 702 / 1440 * 100 */
     width: 48.75%;
     position: relative;
     max-height: 546px;
@@ -393,7 +391,7 @@ height: 330px;
 
 }
 
-/* 미디어쿼리 ----------------------------------------- */
+
 
 /* 💌 1200px 이하 */
 @media screen and (max-width:1200px) {
