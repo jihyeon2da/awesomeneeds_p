@@ -357,8 +357,7 @@ img {
 
 /* .footer */
 .footer {
-height: 330px;
-
+    height: 330px;
     background-color: rgb(255, 243, 228);
     padding: 70px 21.05%;
 }
